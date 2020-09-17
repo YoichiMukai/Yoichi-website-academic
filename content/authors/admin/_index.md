@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Faculty in the Department of Modern Languages at Vancouver Island Univeristy
 
 # Organizations/Affiliations
 organizations:
