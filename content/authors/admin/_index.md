@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a faculty member in the Department of Modern Languages at Vancouver Island University, teaching Japanese and linguistics courses. I recently completed a PhD program in the Department of Linguistics at the University of Alberta. The title of my dissertation is "Perception and production of reduced speech and the role of phonological-orthographic consistency". My supervisors were Dr. Benjamin V. Tucker and Dr. Juhani Järvikivi.
+bio: I am a faculty member in the Department of Modern Languages at Vancouver Island University, teaching Japanese and linguistics courses.
 
 interests:
 - Phonetics
@@ -48,10 +48,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:yoichi.mukai@viu.ca".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Yoichi0718
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -74,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a faculty member in the Department of Modern Languages at Vancouver Island University, teaching Japanese and linguistics courses. I recently completed a PhD program in the Department of Linguistics at the University of Alberta. The title of my dissertation is "Perception and production of reduced speech and the role of phonological-orthographic consistency". My supervisors were Dr. Benjamin V. Tucker and Dr. Juhani Järvikivi.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In my research, I take an experimental approach to investigating the influence of orthography in spoken word comprehention. In my dissertation, I looked at the effect of pronunciation-to-spelling consisteicy in the recognition of spontaneous Japanese speech for L1 and L2 listeners. More specifically, I examined how phonetic reduction, often found in spontaneous speech, interacts with the effect of phonological-orthographic consistency. Methodologically, I employed pupillometry, the measurement of pupil dilation, and generalized additive mixed modelling.
