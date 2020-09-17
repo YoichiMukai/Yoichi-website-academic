@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a faculty member in the Department of Modern Languages at Vancouver Island University, teaching Japanese and linguistics courses. I recently completed a PhD program in the Department of Linguistics at the University of Alberta. The title of my dissertation is "Perception and production of reduced speech and the role of phonological-orthographic consistency". My supervisors were Dr. Benjamin V. Tucker and Dr. Juhani Järvikivi.
 
 interests:
 - Artificial Intelligence
