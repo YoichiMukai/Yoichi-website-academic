@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yoichi Mukai
+title: Yoichi Mukai, Ph.D.
 
 # Username (this should match the folder name)
 authors:
