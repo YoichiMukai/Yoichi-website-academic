@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   company = "University of Alberta"
   company_url = "https://www.ualberta.ca/linguistics/index.html"
   location = "Edmonton, AB, Canada"
-  date_start = "2018-01-01"
+  date_start = "2018-07-01"
   date_end = "2018-12-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
