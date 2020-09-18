@@ -35,21 +35,8 @@ date_format = "Jan 2006"
   company = "Department of Linguistics at the University of Alberta"
   company_url = "https://www.ualberta.ca/linguistics/index.html"
   location = "Edmonton, AB, Canada"
-  date_start = "2019-07-01"
-  date_end = "2019-8-31"
-  description = """
-
-  * Taught phonetics course (LING 205)
-  """
-[[experience]]
-  title = "Instructor - Phonetics"
-  company = "Department of Linguistics at the University of Alberta"
-  company_url = "https://www.ualberta.ca/linguistics/index.html"
-  location = "Edmonton, AB, Canada"
   date_start = "2018-07-01"
   date_end = "2018-8-31"
-  description = """
+  description = """Taught electronic engineering and researched semiconductor physics."""
 
-  * Taught phonetics course (LING 205)
-  """
 +++
