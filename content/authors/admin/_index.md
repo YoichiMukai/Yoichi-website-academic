@@ -52,9 +52,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Yoichi0718
-- icon: researchgate
+- icon: google-scholar
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Yoichi_Mukai2
+  link: https://scholar.google.com/citations?user=IitzdJgAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/YoichiMukai
