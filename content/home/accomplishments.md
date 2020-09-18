@@ -29,15 +29,15 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
+  organization = "Nagoya University"
+  organization_url = ""
+  title = "Visiting PhD student"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-09-01"
+  date_end = "2017-12-31"
   description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
+
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
