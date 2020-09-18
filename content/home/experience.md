@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   description = """
 
   * Taught phonetics course (LING 205)
-
+  """
 [[experience]]
   title = "Instructor - Phonetics"
   company = "Department of Linguistics at the University of Alberta"
@@ -51,4 +51,5 @@ date_format = "Jan 2006"
   description = """
 
   * Taught phonetics course (LING 205)
+  """
 +++
