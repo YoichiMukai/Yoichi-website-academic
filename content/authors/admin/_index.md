@@ -54,7 +54,7 @@ social:
   link: https://twitter.com/Yoichi0718
 - icon: researchgate
   icon_pack: ai
-  link: hhttps://www.researchgate.net/profile/Yoichi_Mukai2
+  link: https://www.researchgate.net/profile/Yoichi_Mukai2
 - icon: github
   icon_pack: fab
   link: https://github.com/YoichiMukai
