@@ -54,7 +54,7 @@ date_format = "Jan 2006"
   company_url = "https://carleton.ca/slals/"
   location = "Ottawa, ON, Canada"
   date_start = "2014-05-01"
-  date_end = "2018-06-30"
-  description = """Taught Phonetics"""
+  date_end = "2014-06-30"
+  description = """Taught Conversational Japanese"""
 
 +++
