@@ -54,7 +54,7 @@ date_format = "Jan 2006"
   company_url = "https://carleton.ca/slals/"
   location = "Ottawa, ON, Canada"
   date_start = "2014-05-01"
-  date_end = "2018-08-31"
+  date_end = "2018-06-31"
   description = """Taught Phonetics"""
 
 +++
