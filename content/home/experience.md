@@ -49,8 +49,8 @@ date_format = "Jan 2006"
   description = """Taught Phonetics"""
 
 [[experience]]
-  title = "Instructor - Phoneticss"
-  company = "Department of Linguistics at the University of Alberta"
+  title = "Instructor - Conversational Japanese"
+  company = "School of Linguistics and Language Studies"
   company_url = "https://www.ualberta.ca/linguistics/index.html"
   location = "Edmonton, AB, Canada"
   date_start = "2018-07-01"
