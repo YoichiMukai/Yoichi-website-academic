@@ -53,8 +53,8 @@ date_format = "Jan 2006"
   company = "School of Linguistics and Language Studies & Summer Institute of Language and Culture at Carleton University"
   company_url = "https://carleton.ca/slals/"
   location = "Edmonton, AB, Canada"
-  date_start = "2014-05-01"
-  date_end = "2014-06-31"
-  description = """Taught Conversational Japanese"""
+  date_start = "2018-07-01"
+  date_end = "2018-08-31"
+  description = """Taught Phonetics"""
 
 +++
