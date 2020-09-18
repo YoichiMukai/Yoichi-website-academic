@@ -38,11 +38,11 @@ subtitle = ""
   name = "Pupillometry"
   description = "The measurement of pupil dilation over time"
 
-[feature]]
-  icon = "pen"
-  icon_pack = "fas"
-  name = "Latex"
-  description = "The production of technical and scientific documentation"
+#[feature]]
+#  icon = "pen"
+#  icon_pack = "fas"
+#  name = "Latex"
+#  description = "The production of technical and scientific documentation"
 
 [feature]]
   icon = "language"
