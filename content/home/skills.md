@@ -44,4 +44,10 @@ subtitle = ""
   name = "Latex"
   description = "The production of technical and scientific documentation"
 
+[feature]]
+  icon = "language"
+  icon_pack = "fas"
+  name = "Language"
+  description = "Japanese; English"
+
 +++
