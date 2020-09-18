@@ -36,21 +36,22 @@ date_format = "Jan 2006"
   description = """Assisted in developing an interactive online phonetics course and lab activities for the project “Developing Interactive Online Lab Activities and an Online Course for Phonetics”"""
 
 [[experience]]
-  title = "Instructor - Phonetics"
+  title = "Research Assistant for Dr. Benjamin V. Tucker"
   company = "Department of Linguistics at the University of Alberta"
   company_url = "https://www.ualberta.ca/linguistics/index.html"
   location = "Edmonton, AB, Canada"
-  date_start = "2018-07-01"
-  date_end = "2018-08-31"
-  description = """"""
+  date_start = "2014-09-01"
+  date_end = "2015-08-31"
+  description = """Designed a pupillometry experiment for the project “Pupillary Responses to the Comprehension of Speech Variability
+and Spontaneous Speech”,"""
 
 [[experience]]
-  title = "Instructor - Conversational Japanese"
-  company = "School of Linguistics and Language Studies & Summer Institute of Language and Culture at Carleton University"
+  title = "Research Assistant for Dr. David Wood"
+  company = "School of Linguistics and Language Studies at Carleton University"
   company_url = "https://carleton.ca/slals/"
   location = "Ottawa, ON, Canada"
   date_start = "2014-05-01"
   date_end = "2014-06-30"
-  description = """"""
+  description = """Transcribed and translated spoken data (Japanese & English), and analyzed it quantitatively and qualitatively for the project “Idiodynamic analysis of speech fluency and willingness to communicate in a second language”"""
 
 +++
