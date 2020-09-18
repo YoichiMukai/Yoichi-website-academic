@@ -48,4 +48,13 @@ date_format = "Jan 2006"
   date_end = "2018-08-31"
   description = """Taught Phonetics"""
 
+[[experience]]
+  title = "Instructor - Conversational Japanese"
+  company = "School of Linguistics and Language Studies and Summer Institute of Language and Culture at Carleton University"
+  company_url = "https://carleton.ca/slals/"
+  location = "Ottawa, ON, Canada"
+  date_start = "2018-05-01"
+  date_end = "2018-06-31"
+  description = """Taught Conversational Japanese"""
+
 +++
