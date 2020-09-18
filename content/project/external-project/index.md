@@ -1,7 +1,6 @@
 +++
 # Project title.
-title = "Mukai, Y.,  Tucker, B. V. (submitted). Phonetic variability of stops and nasals in
-Japanese across a range of speaking styles."
+title = "External Project"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
