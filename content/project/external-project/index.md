@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Mukai, Y., & Tucker, B. V. (submitted). Phonetic variability of stops and nasals in
+title = "Mukai, Y.,  Tucker, B. V. (submitted). Phonetic variability of stops and nasals in
 Japanese across a range of speaking styles."
 
 # Date this page was created.
