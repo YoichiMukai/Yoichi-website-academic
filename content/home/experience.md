@@ -19,24 +19,36 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Faculty - Japanese & Linguistics"
-  company = "Department of Modern Languages at Vancouver Island Unviersity"
+  company = "Department of Modern Languages at Vancouver Island University"
   company_url = "https://ah.viu.ca/modern-languages-studies"
   location = "Nanaimo, BC, Canada"
   date_start = "2019-08-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  #Responsibilities include:
 
-  * Teach Japanese and linguistics coursese
+  * Teach Japanese and linguistics courses
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Instructor - Phonetics"
+  company = "Department of Linguistics at the University of Alberta"
+  company_url = "https://www.ualberta.ca/linguistics/index.html"
+  location = "Edmonton, AB, Canada"
+  date_start = "2019-07-01"
+  date_end = "2019-8-31"
+  description = """
 
+  * Taught phonetics course (LING 205)
+
+[[experience]]
+  title = "Instructor - Phonetics"
+  company = "Department of Linguistics at the University of Alberta"
+  company_url = "https://www.ualberta.ca/linguistics/index.html"
+  location = "Edmonton, AB, Canada"
+  date_start = "2018-07-01"
+  date_end = "2018-8-31"
+  description = """
+
+  * Taught phonetics course (LING 205)
 +++
