@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 45  # Order that this section will appear.
 
-title = "Reseach Experience"
+title = "Research Experience"
 subtitle = ""
 
 # Date format for experience
@@ -24,16 +24,16 @@ date_format = "Jan 2006"
   location = "Edmonton, AB, Canada"
   date_start = "2018-03-01"
   date_end = "2018-05-01"
-  description = """: Preprocessed, analyzed and visualized pupillometric data of person with aphasia"""
+  description = """Preprocessed, analyzed and visualized pupillometric data of person with aphasia"""
 
 [[experience]]
-  title = "Instructor - Phonetics"
+  title = "Research Assistant for Dr. Benjamin V. Tucker"
   company = "Department of Linguistics at the University of Alberta"
   company_url = "https://www.ualberta.ca/linguistics/index.html"
   location = "Edmonton, AB, Canada"
-  date_start = "2019-07-01"
-  date_end = "2019-08-31"
-  description = """"""
+  date_start = "2015-07-01"
+  date_end = "2016-08-31"
+  description = """Assisted in developing an interactive online phonetics course and lab activities for the project “Developing Interactive Online Lab Activities and an Online Course for Phonetics”"""
 
 [[experience]]
   title = "Instructor - Phonetics"
