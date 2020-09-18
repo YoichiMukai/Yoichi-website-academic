@@ -32,8 +32,8 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Instructor - Phonetics"
-  company = "University X"
-  company_url = ""
+  company = "University of Alberta"
+  company_url = "https://www.ualberta.ca/linguistics/index.html"
   location = "California"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
