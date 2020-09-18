@@ -27,25 +27,21 @@ subtitle = ""
   description = "Generalized Additive Mixed-effects Model; Linear Mixed-Effects Model; Random Forest"
 
 [[feature]]
-  icon = "camera-retro"
+  icon = "headphones"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Praat"
+  description = "The scientific analysis of speech in phonetics"
 
-# Uncomment to use emoji icons.
-# [[feature]]
-#  icon = ":smile:"
-#  icon_pack = "emoji"
-#  name = "Emojiness"
-#  description = "100%"
+[[feature]]
+  icon = "fas fa-eye"
+  icon_pack = "fas"
+  name = "Pupillometry"
+  description = "The measurement of pupil dilation over time"
 
-# Uncomment to use custom SVG icons.
-# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
-# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-# [[feature]]
-#  icon = "your-custom-icon-name"
-#  icon_pack = "custom"
-#  name = "Surfing"
-#  description = "90%"
+[feature]]
+  icon = "pen"
+  icon_pack = "fas"
+  name = "Latex"
+  description = "The production of technical and scientific documentation"
 
 +++
