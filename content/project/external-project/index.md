@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "External Project"
+title = "Phonetic variability of stops and nasals in Japanese across a range of speaking styles."
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
