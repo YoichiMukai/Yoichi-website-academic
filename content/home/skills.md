@@ -32,11 +32,11 @@ subtitle = ""
   name = "Praat"
   description = "The scientific analysis of speech in phonetics"
 
-#[[feature]]
-#  icon = "fas fa-eye"
-#  icon_pack = "fas"
-#  name = "Pupillometry"
-#  description = "The measurement of pupil dilation over time"
+[[feature]]
+  icon = "eye"
+  icon_pack = "fas"
+  name = "Pupillometry"
+  description = "The measurement of pupil dilation over time"
 
 #[feature]]
 #  icon = "pen"
