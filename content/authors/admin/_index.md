@@ -49,9 +49,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:yoichi.mukai@viu.ca"  # For a direct email link, use "mailto:yoichi.mukai@viu.ca".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/Yoichi0718
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Yoichi_Mukai2
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=IitzdJgAAAAJ&hl=en
