@@ -24,7 +24,7 @@ interests:
 - Phonetics
 - Psycholinguistics
 - Pupillometry
-- Second Language Pronunciation and Comprehension
+- L2 Pronunciation and Comprehension
 - Quantitative Research Method
 - Japanese Linguistics
 
