@@ -50,7 +50,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Instructor - Conversational Japanese"
-  company = "School of Linguistics and Language Studies &"
+  company = "School of Linguistics and Language Studies & Summer Institute of Language and Culture"
   company_url = "https://www.ualberta.ca/linguistics/index.html"
   location = "Edmonton, AB, Canada"
   date_start = "2018-07-01"
