@@ -25,9 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-08-01"
   date_end = ""
   description = """
-  #Responsibilities include:
-
-  * Teach Japanese and linguistics courses
+  Teach Japanese and linguistics courses
   """
 
 [[experience]]
