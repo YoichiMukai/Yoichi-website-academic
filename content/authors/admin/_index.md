@@ -33,7 +33,7 @@ education:
   courses:
   - course: PhD in Linguistics
     institution: University of Alberta
-    institution: University of Alberta
+    thesis: University of Alberta
     year: 2020
   - course: MA in Applied Linguistics and Discourse Studies
     institution: Carleton University
