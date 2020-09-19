@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Additional Training" #"Accomplish&shy;ments"
 subtitle = ""
 
 # Date format
@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   date_end = "2015-05-30"
   description = ""
 
-  [[item]]
+[[item]]
   organization = "University of Alberta"
   organization_url = ""
   title = "Spring Training in Experimental Psycholinguistics"
@@ -58,4 +58,13 @@ date_format = "Jan 2006"
   date_end = "2016-05-30"
   description = ""
 
+[[item]]
+  organization = "Algonquin College"
+  organization_url = ""
+  title = "Teachers of English as a Second/Foreign Language Program (TESOL)"
+  url = ""
+  certificate_url = ""
+  date_start = "2009-09-01"
+  date_end = "2010-04-15"
+  description = ""
 +++

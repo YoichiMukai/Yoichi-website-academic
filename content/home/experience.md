@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   location = "Edmonton, AB, Canada"
   date_start = "2019-07-01"
   date_end = "2019-08-31"
-  description = """Taught Phonetics"""
+  description = """"""
 
 [[experience]]
   title = "Instructor - Phonetics"
@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   location = "Edmonton, AB, Canada"
   date_start = "2018-07-01"
   date_end = "2018-08-31"
-  description = """Taught Phonetics"""
+  description = """"""
 
 [[experience]]
   title = "Instructor - Conversational Japanese"
@@ -55,6 +55,6 @@ date_format = "Jan 2006"
   location = "Ottawa, ON, Canada"
   date_start = "2014-05-01"
   date_end = "2014-06-30"
-  description = """Taught Conversational Japanese"""
+  description = """"""
 
 +++
