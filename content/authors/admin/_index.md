@@ -32,7 +32,7 @@ interests:
 education:
   courses:
   - course: PhD in Linguistics
-    institution: Dissertation "Production and perception of reduced speech and the role of phonological-orthographic consistency" University of Alberta
+    institution: University of Alberta&shy; Dissertation "Production and perception of reduced speech and the role of phonological-orthographic consistency"
     year: 2020
   - course: MA in Applied Linguistics and Discourse Studies
     institution: Carleton University
