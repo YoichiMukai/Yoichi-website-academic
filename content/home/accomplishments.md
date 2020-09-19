@@ -61,7 +61,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Algonquin College"
   organization_url = ""
-  title = "Teachers of English as a Second/Foreign Language Program" (TESOL)
+  title = "Teachers of English as a Second/Foreign Language Program (TESOL)"
   url = ""
   certificate_url = ""
   date_start = "2009-09-01"
