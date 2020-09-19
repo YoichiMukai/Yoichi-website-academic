@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   date_end = "2015-05-30"
   description = ""
 
-  [[item]]
+[[item]]
   organization = "University of Alberta"
   organization_url = ""
   title = "Spring Training in Experimental Psycholinguistics"
@@ -58,4 +58,13 @@ date_format = "Jan 2006"
   date_end = "2016-05-30"
   description = ""
 
+[[item]]
+  organization = "Algonquin College"
+  organization_url = ""
+  title = "Spring Training in Experimental Psycholinguistics"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-05-25"
+  date_end = "2016-05-30"
+  description = ""
 +++
