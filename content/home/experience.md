@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Teaching Experience"
 subtitle = ""
 
 # Date format for experience
@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Teach:
-  * Basic Japanese I and II; Intermediate Japanese I and II
+  * Basic Japanese I & II; Intermediate Japanese I & II
   * Intro to Descriptive Linguistics
   """
 
