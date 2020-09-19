@@ -74,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-I am a faculty member in the Department of Modern Languages at Vancouver Island University, teaching Japanese and linguistics. I recently defended my PhD dissertation, entitled "Perception and production of reduced speech and the role of phonological-orthographic consistency", in the Department of Linguistics at the University of Alberta under the under the supervision of Drs. Benjamin V. Tucker and Juhani Järvikivi.
+I am a faculty member in the Department of Modern Languages at Vancouver Island University, teaching Japanese and linguistics. I recently defended my PhD dissertation, entitled "Perception and production of reduced speech and the role of phonological-orthographic consistency", in the Department of Linguistics at the University of Alberta under the supervision of Drs. Benjamin V. Tucker and Juhani Järvikivi.
 
 In my dissertation, I looked at the effect of pronunciation-to-spelling consistency in the recognition of spontaneous Japanese speech for L1 and L2 listeners. More specifically, I examined how phonetic reduction interacts with the effect of consistency. Methodologically, I employed pupillometry, the measurement of pupil dilation, and generalized additive mixed modelling.
