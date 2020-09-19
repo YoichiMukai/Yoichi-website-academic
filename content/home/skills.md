@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
+  name = "RStudio"
   description = "Data Analysis and Visualization"
 
 [[feature]]
