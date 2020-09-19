@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Recent & Upcoming Talks"
+title = "Presentations"
 subtitle = ""
 
 [content]
@@ -70,5 +70,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-Quickly discover relevant content by [filtering talks]({{< ref "/talk/_index.md" >}}).
+Quickly discover relevant content by [filtering presentations]({{< ref "/talk/_index.md" >}}).
 {{% /alert %}}
