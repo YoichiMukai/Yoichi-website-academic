@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: The effect of phonological-orthographic consistency on the processing of reduced and citation forms of Japanese words Evidence from pupillometry
 
 # View.
 #   1 = List
