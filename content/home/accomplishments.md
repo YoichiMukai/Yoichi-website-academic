@@ -61,10 +61,10 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Algonquin College"
   organization_url = ""
-  title = "Spring Training in Experimental Psycholinguistics"
+  title = "Teachers of English as a Second/Foreign Language Program" (TESOL)
   url = ""
   certificate_url = ""
-  date_start = "2016-05-25"
-  date_end = "2016-05-30"
+  date_start = "2009-09-01"
+  date_end = "2010-04-15"
   description = ""
 +++
