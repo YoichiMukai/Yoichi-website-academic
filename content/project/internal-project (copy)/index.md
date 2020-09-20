@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Examining cognitive control in people with aphasia"
+title = "Rhythm metrics and the timing pattern of read and spontaneous speech: The case of Japanese, English, and L2 English"
 
 # Date this page was created.
 date = 2020-04-27T00:00:00
