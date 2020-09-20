@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Perception of reduced speech and the role of phonological-orthographic consistency: Evidence from pupillometry"
+title = "The effect of phonologicalorthographic consistency in the recognition of reduced speech for L2 speakers: Evidence from pupillometry"
 
 # Date this page was created.
 date = 2020-04-27T00:00:00
