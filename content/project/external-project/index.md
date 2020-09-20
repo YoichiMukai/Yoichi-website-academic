@@ -9,7 +9,7 @@ date = 2020-08-27T00:00:00
 summary = "Mukai, Y., & Tucker, B. V. (submitted)"
 
 # Tags: can be used for filtering projects.
-# Example: `tags = [""]`
+# Example: `tags = ["machine-learning", "deep-learning"]`
 tags = [""]
 
 # Optional external URL for project (replaces project detail page).
