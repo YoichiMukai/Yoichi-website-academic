@@ -3,7 +3,7 @@
 title = "Phonetic variability of stops and nasals in Japanese across a range of speaking styles"
 
 # Date this page was created.
-date = 2019-04-27T00:00:00
+date = 2020-08-27T00:00:00
 
 # Project summary to display on homepage.
 summary = "Mukai, Y., & Tucker, B. V. (submitted)"
