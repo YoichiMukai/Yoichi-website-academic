@@ -10,7 +10,7 @@ summary = "Mukai, Y., Järvikivi, J., & Tucker, B. V. (in preparation)"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = [""]`
-tags = ["Deep Learning"]
+tags = [""]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
