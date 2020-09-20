@@ -1,19 +1,19 @@
 +++
 # Project title.
-title = "Japanese I"
+title = "Examining cognitive control in people with aphasia"
 
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = 2020-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "An example of using the in-built project page."
+summary = "Wilson.C., Mukai, Y., Figeys, M., Suleman, S., Garcia, R., & Kim, E.S. (in preparation)"
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
+# Example: `tags = [""]`
 tags = ["Deep Learning"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://wordpress.viu.ca/japanese/"
+external_link = ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -21,7 +21,7 @@ external_link = "https://wordpress.viu.ca/japanese/"
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = "example-slides"
+slides = ""
 
 # Links (optional).
 url_pdf = ""
@@ -37,7 +37,7 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Photo by rawpixel on Unsplash"
+  caption = ""
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
