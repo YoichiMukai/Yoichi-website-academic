@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Examining cognitive control in people with aphasia"
+title = "MPerception of reduced speech and the role of phonological-orthographic consistency: Evidence from pupillometry"
 
 # Date this page was created.
 date = 2020-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Wilson.C., Mukai, Y., Figeys, M., Suleman, S., Garcia, R., & Kim, E.S. (in preparation)"
+summary = "Mukai, Y., Järvikivi, J., & Tucker, B. V. (in preparation)"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = [""]`
