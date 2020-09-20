@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "MPerception of reduced speech and the role of phonological-orthographic consistency: Evidence from pupillometry"
+title = "Perception of reduced speech and the role of phonological-orthographic consistency: Evidence from pupillometry"
 
 # Date this page was created.
 date = 2020-04-27T00:00:00
