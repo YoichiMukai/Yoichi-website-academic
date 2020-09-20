@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Rhythm metrics and the timing pattern of read and spontaneous speech: The case of Japanese, English, and L2 English"
+title = "Pupillometry and processing of morphologically (pseudo) complex words"
 
 # Date this page was created.
 date = 2020-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Mukai, Y., & Tucker, B. V. (in preparation)"
+summary = "Mukai, Y., & Järvikivi, J. (in preparation)"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = [""]`
