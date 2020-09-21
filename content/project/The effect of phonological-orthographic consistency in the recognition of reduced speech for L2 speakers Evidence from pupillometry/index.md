@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "The effect of phonologicalorthographic consistency in the recognition of reduced speech for L2 speakers: Evidence from pupillometry"
+title = "The effect of phonological-orthographic consistency in the recognition of reduced speech for L2 speakers: Evidence from pupillometry"
 
 # Date this page was created.
 date = 2020-04-27T00:00:00
@@ -18,7 +18,7 @@ external_link = ""
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
+#   E.g. `slides = "example-slides"` references
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides = ""
@@ -34,11 +34,11 @@ url_code = ""
 url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
+# To use, add an image named `featured.jpg/png` to your project's folder.
 [image]
   # Caption (optional)
   caption = ""
-  
+
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
