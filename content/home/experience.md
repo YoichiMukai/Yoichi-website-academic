@@ -57,4 +57,13 @@ date_format = "Jan 2006"
   date_end = "2014-06-30"
   description = """"""
 
+[[experience]]
+  title = "Instructor - Introduction to Japanese"
+  company = "Décanat de la formation continue et des partenariats (DFCP) at the Université du Québec en Outaouais"
+  company_url = "https://carleton.ca/slals/"
+  location = "Ottawa, ON, Canada"
+  date_start = "2012-09-17"
+  date_end = "2012-12-10"
+  description = """"""
+
 +++
