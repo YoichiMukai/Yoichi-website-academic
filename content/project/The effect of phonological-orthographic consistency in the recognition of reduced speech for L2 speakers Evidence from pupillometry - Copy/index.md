@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "The effect of phonological-orthographic consistency in the recognition of reduced speech for L2 speakers: Evidence from pupillometry"
+title = "Rhythm and fuency: Durational variability as a perceptual correlate of fuency in L2 speech"
 
 # Date this page was created.
-date = 2020-04-27T00:00:00
+date = 2018-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Mukai, Y., Järvikivi, J., & Tucker, B. V. (in preparation)"
+summary = "Mukai, Y., Wood, D., & Tucker, B. V. (in preparation)"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = [""]`
