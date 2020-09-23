@@ -49,7 +49,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "papers/Mukai_Yoichi_202009_PhD..pdf"
+url_pdf = "papers/Mukai_Yoichi_202009_PhD.pdf"
 #url_preprint = ""
 #url_code = ""
 #url_dataset = ""
