@@ -70,5 +70,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-Quickly discover relevant content by [filtering presentations]({{< ref "/talk/_index.md" >}}).
+Quickly discover relevant content by [filtering presentations]({{< ref "/presentations/_index.md" >}}).
 {{% /alert %}}
