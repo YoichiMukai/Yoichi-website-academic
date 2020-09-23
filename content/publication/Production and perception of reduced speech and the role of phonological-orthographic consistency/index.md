@@ -15,7 +15,7 @@ authors = ["Mukai Yoichi"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
 publication = "Doctoral Dissertation"
@@ -49,7 +49,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "papers/Theeffectofphonologicalorthographic.pdf"
+url_pdf = "papers/Mukai_Yoichi_202009_PhD..pdf"
 #url_preprint = ""
 #url_code = ""
 #url_dataset = ""
