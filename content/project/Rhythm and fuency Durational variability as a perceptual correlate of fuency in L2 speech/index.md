@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Rhythm and fuency: Durational variability as a perceptual correlate of fuency in L2 speech"
+title = "Examining cognitive control in people with aphasia"
 
 # Date this page was created.
-date = 2018-04-27T00:00:00
+date = 2020-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Mukai, Y., Wood, D., & Tucker, B. V. (in preparation)"
+summary = "Wilson.C., Mukai, Y., Figeys, M., Suleman, S., Garcia, R., & Kim, E.S. (in preparation)"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = [""]`
