@@ -68,7 +68,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Instructor - Elementary Japanese (for diplomats)"
-  company = "Décanat de la formation continue et des partenariats (DFCP) à lˈUniversité du Québec en Outaouais"
+  company = "Interlanguages Language School, the Canadian Foreign Service Institute, the Learning Institution of the Global Affairs Canada"
   company_url = ""
   location = "Gatineau, QC, Canada"
   date_start = "2012-09-17"
