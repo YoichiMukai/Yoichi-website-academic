@@ -67,7 +67,7 @@ date_format = "Jan 2006"
   description = """"""
 
 [[experience]]
-  title = "Instructor - Introduction to Japanese"
+  title = "Instructor - Elementary Japanese"
   company = "Décanat de la formation continue et des partenariats (DFCP) à lˈUniversité du Québec en Outaouais"
   company_url = ""
   location = "Gatineau, QC, Canada"
