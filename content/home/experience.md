@@ -71,7 +71,7 @@ date_format = "Jan 2006"
   company = "Interlanguages Language School, the Canadian Foreign Service Institute, the Learning Institution of the Global Affairs Canada"
   company_url = ""
   location = "Gatineau, QC, Canada"
-  date_start = "2014-09-17"
+  date_start = "2014-10-17"
   date_end = "2014-12-10"
   description = """"""
 
