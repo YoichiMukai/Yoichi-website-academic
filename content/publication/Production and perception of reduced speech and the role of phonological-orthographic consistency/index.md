@@ -64,7 +64,7 @@ url_pdf = "papers/Mukai_Yoichi_202009_PhD.pdf"
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "https://doi.org/10.7939/r3-x8xz-yr25"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
