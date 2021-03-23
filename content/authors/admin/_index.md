@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Faculty in the Department of Modern Languages
+role: Faculty in the Modern Languages Studies Department
 
 # Organizations/Affiliations
 organizations:
 - name: Vancouver Island University
-  url: ""
+  url: "https://www.viu.ca/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
