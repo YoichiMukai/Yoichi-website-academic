@@ -28,6 +28,7 @@ date_format = "Jan 2006"
   Teach:
   * Basic Japanese I & II; Intermediate Japanese I & II
   * Intro to Descriptive Linguistics
+  * Intro to Historical and Applied Linguistics
   """
 
 [[experience]]
