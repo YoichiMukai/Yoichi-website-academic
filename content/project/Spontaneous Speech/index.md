@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "The effect of phonological-orthographic consistency in the recognition of reduced speech for L1 and L2 speakers: Evidence from pupillometry"
+title = "Spontaneous Speech"
 
 # Date this page was created.
 date = 2020-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Mukai, Y., Järvikivi, J., & Tucker, B. V. (in preparation)"
+summary = "Tucker, B. V. & Mukai, Y. (in preparation)"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = [""]`
