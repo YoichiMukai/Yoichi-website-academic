@@ -40,6 +40,6 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-#[[main]]
-#   url = "media/cv.pdf"
-#   weight = 70
+[[main]]
+   url = "<p><iframe src="https://docs.google.com/document/d/e/2PACX-1vSmr7_9tYvTaxiCa9nHUHBSznf72djqlaRX3taIcUl9O3X63LZKE8BOQI_DVJcQZt4vuwC0kjLegdS4/pub?embedded=true" width="100%" height="1200"></iframe></p>"
+   weight = 80
