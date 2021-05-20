@@ -42,5 +42,5 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
-  url = "https://docs.google.com/document/d/e/2PACX-1vQ36el3c0rlgh7hmzMt9SsdvkxIqWJpdRzyTF_oTFghMDeiBzIWZcXhOGMxBt16DVCteh_sFaK5hE90/pub"
+  url = "https://docs.google.com/document/d/1hpkExmzmkpaXm8ZW-37GTMVlaWTb4EotbB8Vh8hvhkk/edit?usp=sharing"
   weight = 80
