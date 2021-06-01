@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Spontaneous Speech"
+title = "Phonetics of Spontaneous Speech"
 
 # Date this page was created.
 date = 2020-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Tucker, B. V. & Mukai, Y. (in preparation)"
+summary = "Tucker, B. V. & Mukai, Y. (submitted)"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = [""]`
