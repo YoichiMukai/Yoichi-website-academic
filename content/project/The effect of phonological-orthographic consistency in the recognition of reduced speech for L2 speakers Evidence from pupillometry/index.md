@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "The effect of phonological-orthographic consistency in the recognition of reduced speech for L1 and L2 speakers: Evidence from pupillometry"
+title = "The effect of phonological-orthographic consistency in the recognition of reduced speech for L1 and L2 listeners: Evidence from pupillometry"
 
 # Date this page was created.
 date = 2020-04-27T00:00:00
