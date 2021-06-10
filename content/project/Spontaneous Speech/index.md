@@ -3,7 +3,7 @@
 title = "Phonetics of Spontaneous Speech"
 
 # Date this page was created.
-date = 2020-04-27T00:00:00
+date = 2020-03-27T00:00:00
 
 # Project summary to display on homepage.
 summary = "Tucker, B. V. & Mukai, Y. (submitted)"
