@@ -3,7 +3,7 @@
 title = "The effect of phonological-orthographic consistency in the recognition of reduced speech for L1 and L2 listeners: Evidence from pupillometry"
 
 # Date this page was created.
-date = 2020-04-27T00:00:00
+date = 2021-05-27T00:00:00
 
 # Project summary to display on homepage.
 summary = "Mukai, Y., Järvikivi, J., & Tucker, B. V. (in preparation)"
