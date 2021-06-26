@@ -76,7 +76,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-# Welcome to my website
+# Welcome
 
 My name is Yoichi Mukai and I am a faculty member in the Modern Languages Studies Department at Vancouver Island University, teaching [Japanese](http://wordpress.viu.ca/japanese/) and linguistics. My primary research interest is to understand how humans process spoken language using multiple sources of language information in order to cope with variability. More specifically, I am interested in understanding (1) how production of speech varies across different styles of speech and how listeners interact with such variability, and (2) how orthographic knowledge influences the recognition of reduced speech. Methodologically, I am interested in applying pupillometry, the measurement of pupil dilation, for spoken word recognition  research. 
 
