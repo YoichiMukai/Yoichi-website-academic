@@ -15,7 +15,8 @@ hero_media = "praat.jpg"
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
-
+  image_position = "center"
+  
 # [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
