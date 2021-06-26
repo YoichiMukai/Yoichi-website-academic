@@ -77,6 +77,7 @@ user_groups:
 - Visitors
 ---
 __Welcome to my website__
+
 My name is Yoichi Mukai and I am a faculty member in the Modern Languages Studies Department at Vancouver Island University, teaching [Japanese](http://wordpress.viu.ca/japanese/) and linguistics. My primary research interest is to understand how humans process spoken language using multiple sources of language information in order to cope with variability. More specifically, I am interested in understanding (1) how production of speech varies across different styles of speech and how listeners interact with such variability, and (2) how orthographic knowledge influences the recognition of reduced speech. Methodologically, I am interested in applying pupillometry, the measurement of pupil dilation, for spoken word recognition  research. 
 
 I gave a talk at my university for those who know nothing about linguistics, but curious about language. The first 15 mins of the talk is about how linguists think and talk about language, and what kind of analysis they conduct to understand pieces of language. The rest of the talk (20 mins) is about my dissertation research. I gave this talk with a hope that someone who knows nothing about linguistics watches it and becomes interested in linguistics and language. Here is my dissertation, [Production and perception of reduced speech and the role of phonological-orthographic consistency](https://doi.org/10.7939/r3-x8xz-yr25).
