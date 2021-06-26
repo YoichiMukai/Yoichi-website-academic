@@ -11,7 +11,7 @@ weight = 15  # Order that this section will appear.
 title = ""
 subtitle = ""
 hero_media = "praat.jpg"
-image_position = "center"
+media_position = "center"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
