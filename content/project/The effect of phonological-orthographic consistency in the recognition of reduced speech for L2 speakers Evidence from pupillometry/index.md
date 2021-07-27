@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "The effect of phonological-orthographic consistency in the recognition of reduced speech for L1 and L2 listeners: Evidence from pupillometry"
+title = "Orthographic realization counts only when it is consistent with its phonological form: A gradient phonological-to-orthographic consistency effect in the realization of reduced pronunciations"
 
 # Date this page was created.
 date = 2021-05-27T00:00:00
