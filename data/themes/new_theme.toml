@@ -1,0 +1,20 @@
+# Theme metadata
+name = "Forest"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#009000"
+primary_light = "#80e27e"
+primary_dark = "#087f23"
+
+# Menu
+menu_primary = "#FFFFFF"
+menu_text = "#009000"
+menu_text_active = "#009000"
+menu_title = "#009000"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
