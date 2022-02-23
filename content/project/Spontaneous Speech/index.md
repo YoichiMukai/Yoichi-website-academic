@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Phonetics of Spontaneous Speech"
+title = "Spontaneous Speech"
 
 # Date this page was created.
 date = 2021-05-31T00:00:00
