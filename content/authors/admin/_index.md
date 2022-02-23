@@ -27,7 +27,7 @@ interests:
 - L2 Pronunciation and Comprehension
 - Quantitative Research Method
 - Japanese Linguistics
-- Spoken and Wrriten Language Interface
+- Spoken and Written Language Interface
 
 
 education:
