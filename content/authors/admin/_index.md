@@ -19,7 +19,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio:
-- AAA
 
 interests:
 - Phonetics
