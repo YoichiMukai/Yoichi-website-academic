@@ -25,11 +25,10 @@ date_format = "Jan 2006"
   date_start = "2019-08-01"
   date_end = ""
   description = """
-  Teach:
-  * Japanese:
-  ** Basic Japanese I & II
+  Teach Japanese Courses:
+  * Basic Japanese I & II
   * Intermediate Japanese I & II
-  Linguistics:
+  Teach Linguistics Courses:
   * Introduction to Language and Linguistics
   * Language and Linguistics in Use
   """
