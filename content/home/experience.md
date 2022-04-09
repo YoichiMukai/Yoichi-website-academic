@@ -26,8 +26,10 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Teach:
+  Japanese:
   * Basic Japanese I & II
   * Intermediate Japanese I & II
+  Linguistics:
   * Introduction to Language and Linguistics
   * Language and Linguistics in Use
   """
