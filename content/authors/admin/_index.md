@@ -19,13 +19,14 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio:
+- AAA
 
 interests:
 - Phonetics
 - Psycholinguistics
 - Pupillometry
 - Spontaneous Speech
-- L2 Pronunciation and Comprehension
+- L2 Pronunciation, Comprehension and Fluency
 - Spoken and Written Language Interface
 - Quantitative Research Method
 - Japanese Linguistics
