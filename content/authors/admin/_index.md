@@ -25,8 +25,8 @@ interests:
 - Psycholinguistics
 - Pupillometry
 - Spontaneous Speech
+- Phonology-to-Orthography Consistency
 - L2 Pronunciation and Comprehension
-- Spoken and Written Language Interface
 - Quantitative Research Method
 - Japanese Linguistics
 
