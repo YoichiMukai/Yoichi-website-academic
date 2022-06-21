@@ -81,7 +81,7 @@ user_groups:
 ---
 ### Welcome to my website
 
-I am a linguist who are actively involved in a wide range of data-driven research with a focus on the empirical study of language through observation and experimentation. My primary research interest lies in the underlying mechanisms of speech communication. Although speech is highly variable, speakers and listeners seem to communicate with ease. It is an intriguing question to address how production of speech varies and how listeners cope with such variability. 
+I am a linguist who are involved in a wide range of data-driven research with a focus on the empirical study of language through observation and experimentation. My primary research interest lies in the underlying mechanisms of speech communication. Although speech is highly variable, speakers and listeners seem to communicate with ease. It is an intriguing question to address how production of speech varies and how listeners cope with such variability. 
 
 I am a faculty member in the Modern Languages Studies Department at Vancouver Island University, teaching [Japanese](http://wordpress.viu.ca/japanese/) and linguistics.
 
