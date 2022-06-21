@@ -6,7 +6,7 @@ title = "Spontaneous Speech"
 date = 2021-05-31T00:00:00
 
 # Project summary to display on homepage.
-summary = "Tucker, B. V. & Mukai, Y. (submitted)"
+summary = "Tucker, B. V. & Mukai, Y. (accepted). Spontaneous Speech (Elements in Phonetics)."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = [""]`
