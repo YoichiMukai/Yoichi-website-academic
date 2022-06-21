@@ -81,10 +81,8 @@ user_groups:
 ---
 ### Welcome to my website
 
-I am a linguist who are involved in a wide range of data-driven research with a focus on the empirical study of language through observation and experimentation. My primary research interest lies in the underlying mechanisms of speech communication. Although speech is highly variable, speakers and listeners seem to communicate with ease. It is an intriguing question to address how production of speech varies and how listeners cope with such variability. 
+I am a linguist who are intrested in a wide range of data-driven research with a focus on the empirical study of language through observation and experimentation. My primary research interest lies in the underlying mechanisms of speech communication. Speakers and listeners seem to communicate with ease, although speech is highly variable. It is an intriguing question to address how production of speech varies and how listeners cope with such variability. 
 
-I am a faculty member in the Modern Languages Studies Department at Vancouver Island University, teaching [Japanese](http://wordpress.viu.ca/japanese/) and linguistics.
-
-I gave a talk at my university for those who know nothing about linguistics, but curious about language. The first 15 mins of the talk is about how linguists think and talk about language, and what kind of analysis they conduct to understand pieces of language. The rest of the talk (20 mins) is about my dissertation research. I gave this talk with a hope that someone who knows nothing about linguistics watches it and becomes interested in linguistics and language. Here is my dissertation, [Production and perception of reduced speech and the role of phonological-orthographic consistency](https://doi.org/10.7939/r3-x8xz-yr25).
+This talk was for those who knows nothing about linguistics but interested in language. The first 15 mins of the talk is about how linguists think and talk about language, and what kind of analysis they conduct to understand pieces of language. The rest of the talk is about my dissertation research. Here is my dissertation, [Production and perception of reduced speech and the role of phonological-orthographic consistency](https://doi.org/10.7939/r3-x8xz-yr25).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Izurn9z130U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
