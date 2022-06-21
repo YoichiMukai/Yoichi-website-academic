@@ -81,7 +81,7 @@ user_groups:
 ---
 ### Welcome to my website
 
-I am a linguist who are intrested in a wide range of data-driven research with a focus on the empirical study of language through experimentation. My primary research interest lies in the underlying mechanisms of speech communication. Speakers and listeners seem to communicate with ease, although speech is highly variable. It is an intriguing question to address how production of speech varies and how listeners cope with such variability. 
+I am a linguist who are interested in a wide range of data-driven research with a focus on the empirical study of language through experimentation. My primary research interest lies in the underlying mechanisms of speech communication. Speakers and listeners seem to communicate with ease, although speech is highly variable. It is an intriguing question to address how production of speech varies and how listeners cope with such variability. 
 
 This talk was for those who knows nothing about linguistics but interested in language. The first 15 mins of the talk is about how linguists think and talk about language, and what kind of analysis they conduct to understand pieces of language. The rest of the talk is about my dissertation research. Here is my dissertation, [Production and perception of reduced speech and the role of phonological-orthographic consistency](https://doi.org/10.7939/r3-x8xz-yr25).
 
