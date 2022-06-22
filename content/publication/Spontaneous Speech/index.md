@@ -49,7 +49,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://doi.org/10.7939/r3-x8xz-yr25"
+#url_pdf = "https://doi.org/10.7939/r3-x8xz-yr25"
 #url_preprint = ""
 #url_code = ""
 #url_dataset = ""
@@ -64,7 +64,7 @@ url_pdf = "https://doi.org/10.7939/r3-x8xz-yr25"
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "https://doi.org/10.7939/r3-x8xz-yr25"
+#doi = "https://doi.org/10.7939/r3-x8xz-yr25"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
