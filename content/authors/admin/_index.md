@@ -34,10 +34,10 @@ interests:
 
 education:
   courses:
-  - course: PhD in Linguistics
+  - course: Ph.D. in Linguistics
     institution: University of Alberta
     year: 2020
-  - course: MA in Applied Linguistics and Discourse Studies
+  - course: M.A. in Applied Linguistics and Discourse Studies
     institution: Carleton University
     year: 2014
   - course: BSocSc in Community Policy
