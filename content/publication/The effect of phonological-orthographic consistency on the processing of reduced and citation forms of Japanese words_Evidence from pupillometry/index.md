@@ -1,5 +1,5 @@
 +++
-title = "The effect of phonological-orthographic consistency on the processing of reduced and citation forms of Japanese words: Evidence from pupillometry"
+title = "The role of phonology-to-orthography consistency in predicting the degree of pupil dilation induced in processing reduced and unreduced speech"
 date = 2021-09-10T00:00:00
 draft = false
 
@@ -22,7 +22,7 @@ publication = "Book"
 #publication_short = "In *CLA*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "The relationship between the ways in which words are pronounced and spelled has been shown to affect spoken word processing (Ziegler2004) and a consistent relationship between pronunciation and spelling has been reported as a possible cause of unreduced pronunciations being easier to process than reduced counterparts (Ranbom2007) although reduced pronunciations occur more frequently. In the present study, we investigate the effect of pronunciation-to-spelling consistency for reduced and unreduced pronunciations in L1 and L2 listeners of a logographic language. More precisely, we compare L1 and L2 Japanese listeners to probe whether they use orthographic information differently when processing reduced and unreduced speech. Using pupillometry, the current study provides evidence that extends the hypothesis about the role of orthography in the processing of reduced speech. Orthographic realization matters in processing for L1 and L2 advanced listeners. More specifically, how consistent the orthographic realization is with its phonological form (phonology-to-orthography consistency) modulates the extent to which reduced pronunciation induces additional processing costs. The results are further discussed in terms of their implications for how listeners process reduced speech and the role of the orthographic form in speech processing."
 #abstract_short = ""
 
 # Is this a selected publication? (true/false)
