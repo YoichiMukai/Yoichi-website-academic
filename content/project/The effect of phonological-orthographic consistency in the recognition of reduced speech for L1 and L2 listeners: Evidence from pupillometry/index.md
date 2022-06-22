@@ -3,7 +3,7 @@
 title = "The role of phonology-to-orthography consistency in predicting the degree of pupil dilation induced in processing reduced and unreduced speech"
 
 # Date this page was created.
-date = 2021-05-27T00:00:00
+date = 2021-05-30T00:00:00
 
 # Project summary to display on homepage.
 summary = "Mukai, Y., Järvikivi, J., & Tucker, B. V. (under review)"
