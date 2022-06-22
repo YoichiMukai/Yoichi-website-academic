@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Orthographic realization counts only when it is consistent with its phonological form: A gradient phonological-to-orthographic consistency effect in the realization of reduced pronunciations"
+title = "The role of phonology-to-orthography consistency in predicting the degree of pupil dilation induced in processing reduced and unreduced speech"
 
 # Date this page was created.
 date = 2021-05-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Mukai, Y., Järvikivi, J., & Tucker, B. V. (in preparation)"
+summary = "Mukai, Y., Järvikivi, J., & Tucker, B. V. (under review)"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = [""]`
