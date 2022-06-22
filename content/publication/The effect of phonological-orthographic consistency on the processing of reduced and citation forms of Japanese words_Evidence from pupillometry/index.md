@@ -1,5 +1,5 @@
 +++
-title = "The effect of phonological-orthographic consistency on the processing of reduced and citation forms of Japanese words: Evidence from pupillometry"
+title = "The effect of phonological-orthographic consistency on the processing of reduced and citation forms of Japanese words: Evidence from pupillometry (under review)"
 date = 2021-09-10T00:00:00
 draft = false
 
