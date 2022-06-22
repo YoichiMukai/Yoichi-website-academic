@@ -1,10 +1,10 @@
 +++
-title = "The effect of phonological-orthographic consistency on the processing of reduced and citation forms of Japanese words: Evidence from pupillometry (under review)"
+title = "The effect of phonological-orthographic consistency on the processing of reduced and citation forms of Japanese words: Evidence from pupillometry"
 date = 2021-09-10T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [ "Tucker Benjamin V", "Mukai Yoichi"]
+authors = [ "Tucker, Benjamin V", "Mukai, Yoichi (under review)"]
 
 # Publication type.
 # Legend:
