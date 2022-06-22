@@ -24,7 +24,6 @@ subtitle = "Manuscripts submitted or in preparation"
   # [[content.filter_button]]
   #   name = "All"
   #   tag = "*"
-
   # [[content.filter_button]]
   #   name = "Deep Learning"
   #   tag = "Deep Learning"
