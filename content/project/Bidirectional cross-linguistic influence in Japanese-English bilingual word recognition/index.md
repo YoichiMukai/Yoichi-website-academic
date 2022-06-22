@@ -3,7 +3,7 @@
 title = "Bidirectional cross-linguistic influence in Japanese-English bilingual word recognition: An eye movement study"
 
 # Date this page was created.
-date = 2020-05-28T00:00:00
+date = 2019-05-28T00:00:00
 
 # Project summary to display on homepage.
 summary = "Taylor, J. & Mukai, Y. (in preparation)"
