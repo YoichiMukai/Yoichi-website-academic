@@ -22,7 +22,7 @@ publication = "Book"
 #publication_short = "In *CLA*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Phonetic research investigates how speakers and listeners use speech to convey messages. The speech produced to encode a particular message can vary wildly. Understanding and explaining the phonetic variability embodied in this example is one of the main motivations for this Element. Why and how do speakers produce this variability and how does it impact listeners? This Element focuses on spontaneous speech and its relationship with phonetic research. The authors discuss background and describe research investigating the variation that occurs when speakers and listeners are engaged in spontaneous, conversational speech. As a result, this Element explores aspects of spontaneous speech from the phonetic perspective using both production and perception areas of phonetics. This Element focuses on spontaneous speech and its relationship with phonetic research, exploring aspects of spontaneous speech from the phonetic perspective using both production and perception areas of phonetics."
 #abstract_short = ""
 
 # Is this a selected publication? (true/false)
