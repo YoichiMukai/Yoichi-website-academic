@@ -18,7 +18,7 @@ authors = [ "Benjamin V. Tucker", "Yoichi Mukai"]
 publication_types = ["5"]
 
 # Publication name and optional abbreviated version.
-publication = "Book"
+#publication = "Book"
 #publication_short = "In *CLA*"
 
 # Abstract and optional shortened version.
