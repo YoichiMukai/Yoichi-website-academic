@@ -18,7 +18,7 @@ authors = [ "Yoichi Mukai", "Juhani Järvikivi", "Benjamin V. Tucker (under revi
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Book"
+#publication = "Book"
 #publication_short = "In *CLA*"
 
 # Abstract and optional shortened version.
