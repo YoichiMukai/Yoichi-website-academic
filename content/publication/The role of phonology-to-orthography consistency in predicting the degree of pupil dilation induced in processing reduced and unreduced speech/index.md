@@ -50,7 +50,7 @@ tags = []
 
 # Links (optional).
 #url_pdf = "https://doi.org/10.7939/r3-x8xz-yr25"
-#url_preprint = ""
+url_preprint = "10.31234/osf.io/zv8y3"
 #url_code = ""
 #url_dataset = ""
 #url_project = ""
