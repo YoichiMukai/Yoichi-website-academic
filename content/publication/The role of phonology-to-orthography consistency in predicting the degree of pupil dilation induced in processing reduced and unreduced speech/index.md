@@ -18,7 +18,7 @@ authors = [ "Yoichi Mukai", "Juhani Järvikivi", "Benjamin V. Tucker (under revi
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Book"
+#publication = "Book"
 #publication_short = "In *CLA*"
 
 # Abstract and optional shortened version.
@@ -50,7 +50,7 @@ tags = []
 
 # Links (optional).
 #url_pdf = "https://doi.org/10.7939/r3-x8xz-yr25"
-#url_preprint = ""
+url_preprint = "https://psyarxiv.com/zv8y3/"
 #url_code = ""
 #url_dataset = ""
 #url_project = ""

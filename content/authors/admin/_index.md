@@ -40,9 +40,9 @@ education:
   - course: M.A. in Applied Linguistics and Discourse Studies
     institution: Carleton University
     year: 2014
-  - course: BSocSc in Community Policy
-    institution: Aichi Gakusen University
-    year: 2003
+#  - course: BSocSc in Community Policy
+#    institution: Aichi Gakusen University
+#    year: 2003
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
