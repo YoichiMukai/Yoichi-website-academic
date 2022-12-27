@@ -1,5 +1,5 @@
 +++
-title = "Bidirectional cross-linguistic influence with different-script languages Evidence from eye tracking"
+title = "Bidirectional cross-linguistic influence with different-script languages: Evidence from eye tracking"
 date = 2021-09-10T00:00:00
 draft = false
 
