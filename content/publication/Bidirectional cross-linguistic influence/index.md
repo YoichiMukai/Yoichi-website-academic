@@ -1,10 +1,10 @@
 +++
-title = "The role of phonology-to-orthography consistency in predicting the degree of pupil dilation induced in processing reduced and unreduced speech"
+title = "Bidirectional cross-linguistic influence with different-script languages Evidence from eye tracking"
 date = 2021-09-10T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [ "Yoichi Mukai", "Juhani Järvikivi", "Benjamin V. Tucker (under review)"]
+authors = [ "Jamie Taylor", "Yoichi Mukai (under review)"]
 
 # Publication type.
 # Legend:
@@ -22,7 +22,7 @@ publication_types = ["3"]
 #publication_short = "In *CLA*"
 
 # Abstract and optional shortened version.
-abstract = "The relationship between the ways in which words are pronounced and spelled has been shown to affect spoken word processing (Ziegler2004) and a consistent relationship between pronunciation and spelling has been reported as a possible cause of unreduced pronunciations being easier to process than reduced counterparts (Ranbom2007) although reduced pronunciations occur more frequently. In the present study, we investigate the effect of pronunciation-to-spelling consistency for reduced and unreduced pronunciations in L1 and L2 listeners of a logographic language. More precisely, we compare L1 and L2 Japanese listeners to probe whether they use orthographic information differently when processing reduced and unreduced speech. Using pupillometry, the current study provides evidence that extends the hypothesis about the role of orthography in the processing of reduced speech. Orthographic realization matters in processing for L1 and L2 advanced listeners. More specifically, how consistent the orthographic realization is with its phonological form (phonology-to-orthography consistency) modulates the extent to which reduced pronunciation induces additional processing costs. The results are further discussed in terms of their implications for how listeners process reduced speech and the role of the orthographic form in speech processing."
+abstract = "This study compared patterns of non-selective cross-language activation in L1 and L2 word recognition with different-script bilinguals. The aim was to determine (1) whether lexical processing is non-selective in the L1 (as in L2), and (2) if the same cross-linguistic factors affected processing similarly in each language. To examine the time course of activation, eye movements were tracked during lexical decision. Thirty-two Japanese-English bilinguals responded to 250 words and 250 nonwords in Japanese and English. The same participants and items (i.e., cognate translation equivalents) were used to directly compare L1 and L2 processing. Response latencies as well as eye movements representing early and late processing were analyzed using mixed-effects regression modeling (Baayen et al., 2008). Similar cross-linguistic effects, namely cognate word frequency, phonological similarity, and semantic similarity, were found in both languages. These factors affected processing to different degrees in each language, however. While cognate frequency was significant as early as the first fixation, effects of cross-linguistic phonological and semantic similarity arose later in time. Increased phonological similarity slowed responses in L2 but speeded them in L1, while greater semantic overlap was facilitatory in both languages. Results are discussed from the perspective of the BIA+ model of visual word recognition."
 #abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -50,7 +50,7 @@ tags = []
 
 # Links (optional).
 #url_pdf = "https://doi.org/10.7939/r3-x8xz-yr25"
-url_preprint = "https://psyarxiv.com/zv8y3/"
+#url_preprint = "https://psyarxiv.com/zv8y3/"
 #url_code = ""
 #url_dataset = ""
 #url_project = ""
