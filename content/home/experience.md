@@ -30,6 +30,7 @@ date_format = "Jan 2006"
   * Intermediate Japanese I & II
   * Introduction to Language and Linguistics
   * Language and Linguistics in Use
+  * Introduction to Second Language Acquisition
   """
 
 [[experience]]
