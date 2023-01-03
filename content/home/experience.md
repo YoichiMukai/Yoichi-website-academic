@@ -28,7 +28,6 @@ date_format = "Jan 2006"
   Japanese & Lingusitcs Courses:
   * Basic Japanese I & II
   * Intermediate Japanese I & II
-  Japanese & Lingusitcs Courses:
   * Introduction to Language and Linguistics
   * Language and Linguistics in Use
   * Introduction to Second Language Acquisition
