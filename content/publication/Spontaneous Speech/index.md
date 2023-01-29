@@ -49,7 +49,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://doi.org/10.1017/9781108943024"
+#url_pdf = "https://doi.org/10.1017/9781108943024"
 #url_preprint = ""
 #url_code = ""
 #url_dataset = ""
@@ -57,7 +57,7 @@ url_pdf = "https://doi.org/10.1017/9781108943024"
 #url_slides = ""
 #url_video = ""
 #url_poster = ""
-#url_source = "https://doi.org/10.7939/r3-x8xz-yr25"
+url_source = "https://doi.org/10.1017/9781108943024"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
