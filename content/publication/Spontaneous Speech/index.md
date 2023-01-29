@@ -57,14 +57,14 @@ tags = []
 #url_slides = ""
 #url_video = ""
 #url_poster = ""
-url_source = "https://doi.org/10.1017/9781108943024"
+#url_source = "https://doi.org/10.1017/9781108943024"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-#doi = "https://doi.org/10.7939/r3-x8xz-yr25"
+doi = "https://doi.org/10.1017/9781108943024"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
