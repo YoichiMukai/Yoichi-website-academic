@@ -49,7 +49,7 @@ projects = []
 tags = []
 
 # Links (optional).
-#url_pdf = "https://doi.org/10.7939/r3-x8xz-yr25"
+url_pdf = "https://doi.org/10.1017/9781108943024"
 #url_preprint = ""
 #url_code = ""
 #url_dataset = ""
