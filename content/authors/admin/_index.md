@@ -21,8 +21,8 @@ organizations:
 bio:
 
 interests:
-- Phonetics
 - Psycholinguistics
+- Phonetics
 - Pupillometry
 - Phonology-to-Orthography Consistency
 - Spontaneous Speech
