@@ -4,7 +4,7 @@ date = 2021-09-10T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [ "Jamie Taylor", "Yoichi Mukai (accepted) *Applied Psycholinguistics*"]
+authors = [ "Jamie Taylor", "Yoichi Mukai (accepted) Applied Psycholinguistics"]
 
 # Publication type.
 # Legend:
@@ -15,10 +15,10 @@ authors = [ "Jamie Taylor", "Yoichi Mukai (accepted) *Applied Psycholinguistics*
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-#publication = "Book"
+publication = "Applied Psycholinguistics"
 #publication_short = "In *CLA*"
 
 # Abstract and optional shortened version.
