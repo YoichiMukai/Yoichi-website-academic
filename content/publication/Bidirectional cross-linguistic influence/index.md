@@ -4,7 +4,7 @@ date = 2021-09-10T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [ "Jamie Taylor", "Yoichi Mukai (accepted). Applied Psycholinguistics"]
+authors = [ "Jamie Taylor", "Yoichi Mukai. Applied Psycholinguistics"]
 
 # Publication type.
 # Legend:
@@ -57,7 +57,7 @@ tags = []
 #url_slides = ""
 #url_video = ""
 #url_poster = ""
-url_source = "https://doi.org/10.1017/S0142716423000188"
+#url_source = "https://doi.org/10.1017/S0142716423000188"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
