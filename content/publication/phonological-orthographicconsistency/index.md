@@ -1,6 +1,6 @@
 +++
 title = "The effect of phonological-orthographic consistency on the processing of reduced and citation forms of Japanese words: Evidence from pupillometry"
-date = 2018-05-01T00:00:00
+date = 2018-01-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
