@@ -1,6 +1,6 @@
 +++
 title = "Bidirectional cross-linguistic influence with different-script languages: Evidence from eye tracking"
-date = 2021-09-10T00:00:00
+date = 2023-09-10T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
