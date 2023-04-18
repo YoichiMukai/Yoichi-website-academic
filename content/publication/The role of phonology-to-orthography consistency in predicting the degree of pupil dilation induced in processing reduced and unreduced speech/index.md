@@ -4,7 +4,7 @@ date = 2023-01-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [ "Yoichi Mukai", "Juhani Järvikivi", "Benjamin V. Tucker (under review)"]
+authors = [ "Yoichi Mukai", "Juhani Järvikivi", "Benjamin V. Tucker (in press) Applied Psycholinguistics"]
 
 # Publication type.
 # Legend:
@@ -15,7 +15,7 @@ authors = [ "Yoichi Mukai", "Juhani Järvikivi", "Benjamin V. Tucker (under revi
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 #publication = "Book"
