@@ -26,7 +26,7 @@ abstract = "The relationship between the ways in which words are pronounced and 
 #abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = ture
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
