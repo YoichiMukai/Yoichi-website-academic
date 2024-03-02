@@ -57,7 +57,7 @@ tags = []
 #url_slides = ""
 #url_video = ""
 #url_poster = ""
-#url_source = "https://www.viurrspace.ca/items/ae005445-91d2-40f6-bcb8-fed0b1ef8287"
+url_source = "https://www.viurrspace.ca/items/ae005445-91d2-40f6-bcb8-fed0b1ef8287"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
