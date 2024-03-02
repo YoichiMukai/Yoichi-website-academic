@@ -50,7 +50,7 @@ tags = []
 
 # Links (optional).
 #url_pdf = "https://doi.org/10.7939/r3-x8xz-yr25"
-#url_preprint = "https://psyarxiv.com/zv8y3/"
+url_preprint = "https://www.viurrspace.ca/items/ae005445-91d2-40f6-bcb8-fed0b1ef8287"
 #url_code = ""
 #url_dataset = ""
 #url_project = ""
