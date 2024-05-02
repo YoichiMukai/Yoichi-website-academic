@@ -50,14 +50,14 @@ tags = []
 
 # Links (optional).
 #url_pdf = "https://doi.org/10.7939/r3-x8xz-yr25"
-#url_preprint = "https://psyarxiv.com/zv8y3/"
+#url_preprint = "https://www.viurrspace.ca/items/ae005445-91d2-40f6-bcb8-fed0b1ef8287"
 #url_code = ""
 #url_dataset = ""
 #url_project = ""
 #url_slides = ""
 #url_video = ""
 #url_poster = ""
-#url_source = "https://doi.org/10.1017/S0142716423000188"
+url_source = "https://www.viurrspace.ca/items/ae005445-91d2-40f6-bcb8-fed0b1ef8287"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
