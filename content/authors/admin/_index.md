@@ -27,7 +27,6 @@ interests:
 - Phonology-to-Orthography Consistency
 - Spontaneous Speech
 - L2 Pronunciation and Comprehension
-- Quantitative Research Method
 - Japanese Linguistics
 
 
