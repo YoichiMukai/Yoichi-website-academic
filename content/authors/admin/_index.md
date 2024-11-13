@@ -28,7 +28,6 @@ interests:
 - Spontaneous Speech
 - L2 Pronunciation and Comprehension
 - Japanese Linguistics
-- Test
 
 
 
@@ -68,7 +67,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: https://docs.google.com/document/d/1FBihfjvdpGXkQSrzIZnPf19hyWj8tseY_kbqHp4Skx8/edit?usp=sharing
+  link: https://docs.google.com/document/d/1i2OtN2-AuDvCRj6Xg-VyFclCgpDHQYjZ-0WFNMJlhaQ/edit?usp=sharing
   
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
