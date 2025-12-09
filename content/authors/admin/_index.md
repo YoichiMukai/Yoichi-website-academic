@@ -80,7 +80,7 @@ user_groups:
 ---
 ### Welcome to my website
 
-I am a linguist and the director of the[Linguistic Research Laboratory](https://ah.viu.ca/lrl)) interested in a range of data-driven research, with a focus on the empirical study of language through experimentation. My primary research interest lies in the underlying mechanisms of speech communication. Although speech is highly variable, speakers and listeners seem to communicate with ease. It is intriguing to study how the production of speech varies and how listeners cope with such variability. My LinguisTree is [here](https://academictree.org/linguistics/tree.php?pid=817024).
+I am a linguist and the director of the[Linguistic Research Laboratory](https://ah.viu.ca/lrl) interested in a range of data-driven research, with a focus on the empirical study of language through experimentation. My primary research interest lies in the underlying mechanisms of speech communication. Although speech is highly variable, speakers and listeners seem to communicate with ease. It is intriguing to study how the production of speech varies and how listeners cope with such variability. My LinguisTree is [here](https://academictree.org/linguistics/tree.php?pid=817024).
 
 #### "All Things Language: Linguistics of VIU", the VIU Arts and Humanities Colloquium Series 2024
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EzBX4n1Mdfg?si=1aCpicq004xyMVSp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
