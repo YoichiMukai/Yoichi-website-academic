@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Rhythm and fuency: Durational variability as a perceptual correlate of fuency in L2 speech"
+title = "Examining cognitive control in people with aphasia: Evidence from pupillometry"
 
 # Date this page was created.
 date = 2018-04-27T00:00:00
