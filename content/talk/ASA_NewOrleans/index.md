@@ -46,7 +46,7 @@ tags = []
 #slides = "example-slides"
 
 # Links (optional).
-url_pdf = "papers/ASA_2025.pdf"
+url_pdf = "papers/ASA_poster_2025.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
