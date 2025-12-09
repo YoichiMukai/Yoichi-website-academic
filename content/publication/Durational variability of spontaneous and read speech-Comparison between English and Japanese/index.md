@@ -1,10 +1,10 @@
 +++
 title = "The role of phonology-to-orthography consistency in predicting the degree of pupil dilation induced in processing reduced and unreduced speech"
-date = 2023-01-02T00:00:00
+date = 2023-01-05T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [ "Yoichi Mukai", "Juhani Järvikivi", "Benjamin V. Tucker (2023) Applied Psycholinguistics"]
+authors = [ "Yoichi Mukai", "Daniel Brenner", "Benjamin V. Tucker (2025) Proceedings of Meetings on Acoustics"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = [ "Yoichi Mukai", "Juhani Järvikivi", "Benjamin V. Tucker (2023) Appl
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 #publication = "Book"
 #publication_short = "In *CLA*"
 
 # Abstract and optional shortened version.
-abstract = "The relationship between the ways in which words are pronounced and spelled has been shown to affect spoken word processing and a consistent relationship between pronunciation and spelling has been reported as a possible cause of unreduced pronunciations being easier to process than reduced counterparts although reduced pronunciations occur more frequently. In the present study, we investigate the effect of pronunciation-to-spelling consistency for reduced and unreduced pronunciations in L1 and L2 listeners of a logographic language. More precisely, we compare L1 and L2 Japanese listeners to probe whether they use orthographic information differently when processing reduced and unreduced speech. Using pupillometry, the current study provides evidence that extends the hypothesis about the role of orthography in the processing of reduced speech. Orthographic realization matters in processing for L1 and L2 advanced listeners. More specifically, how consistent the orthographic realization is with its phonological form (phonology-to-orthography consistency) modulates the extent to which reduced pronunciation induces additional processing costs. The results are further discussed in terms of their implications for how listeners process reduced speech and the role of the orthographic form in speech processing."
+abstract = "The present work examines the cross-linguistic effects of speech style and phonetic reduction. Specifically, we focus on the durational variability of vowels and consonants in spontaneous and read speech in English and Japanese. Data were extracted from spoken corpora of English and Japanese and other read speech data for the two languages. The duration of the segments was extracted then for each segment in the dataset to explore differences in durational variability between the two languages and the two speech styles. Differences were found between spontaneous and read speech in English in both vocalic and consonantal measures. In contrast, the Japanese showed less variability, particularly in vocalic elements, with only the consonantal measure showing a difference. The results are discussed in terms of the interplay between speech style and phonetic reduction, suggesting both language-specific and language-independent patterns of reduction."
 #abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -64,7 +64,7 @@ tags = []
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "https://doi.org/10.1017/S0142716423000279"
+doi = "https://doi.org/10.1121/2.0002121"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
