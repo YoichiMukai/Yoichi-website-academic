@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Pupillometry-based mesurement of L2 fluency"
+title = "Pupillometry-based mesurement of L1 and L2 fluency"
 
 # Date this page was created.
 date = 2021-04-27T00:00:00
