@@ -46,7 +46,7 @@ tags = []
 #slides = "example-slides"
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "papers/SRLF34x25.5.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
