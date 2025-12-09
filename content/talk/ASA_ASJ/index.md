@@ -1,6 +1,6 @@
 +++
 title = "The effect of reduction and orthographic consistency in an auditory repetition task"
-date = 2025-09-27T00:00:00  # Schedule page publish date.
+date = 2025-12-07T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
