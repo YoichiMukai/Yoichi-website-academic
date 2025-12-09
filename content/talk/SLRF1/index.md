@@ -1,5 +1,5 @@
 +++
-title = "upillometry-based measurement of L1 and L2 fluency: Pupil dilation as a proxy for cognitive fluency"
+title = "Pupillometry-based measurement of L1 and L2 fluency: Pupil dilation as a proxy for cognitive fluency"
 date = 2025-09-28T00:00:00  # Schedule page publish date.
 draft = false
 
