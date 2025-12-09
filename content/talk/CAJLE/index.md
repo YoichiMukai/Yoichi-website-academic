@@ -9,7 +9,7 @@ draft = false
 #time_end = 2030-06-01T15:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Yoichi Mukai", "Daniel Brenner", "Benjamin V. Tucker"]
+authors = ["Hiromi Aoki", "Jotaro Arimori", "Yoriko Gillard", "Yoichi Mukai", "Seiko Roberts", "Naoko Takei", "Kaori Tanaka"]
 
 # Abstract and optional shortened version.
 abstract = ""
