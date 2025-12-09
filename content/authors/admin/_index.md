@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Faculty in the Modern Languages Studies Department
+role: Chair of Modern Languages Studies Department
 
 # Organizations/Affiliations
 organizations:
