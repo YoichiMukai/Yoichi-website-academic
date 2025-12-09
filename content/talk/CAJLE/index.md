@@ -1,6 +1,6 @@
 +++
 title = "Nihongo Kikusasaizu: A web-based audiovisual resource for teaching and learning Japanese"
-date = 2025-05-18T00:00:00  # Schedule page publish date.
+date = 2021-08-18T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
