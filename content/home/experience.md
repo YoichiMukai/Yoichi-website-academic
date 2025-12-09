@@ -22,16 +22,9 @@ date_format = "Jan 2006"
   company = "Modern Languages Studies Department at Vancouver Island University"
   company_url = "https://ah.viu.ca/modern-languages-studies"
   location = "Nanaimo, BC, Canada"
-  date_start = "2019-08-01"
+  date_start = "2025-05-01"
   date_end = ""
-  description = """
-  Japanese & Linguistics:
-  * Basic Japanese I & II
-  * Intermediate Japanese I & II
-  * Introduction to Language and Linguistics
-  * Language and Linguistics in Use
-  * Introduction to Second Language Acquisition
-  """
+  description = """"""
 
 [[experience]]
   title = "Faculty - Japanese & Linguistics"
