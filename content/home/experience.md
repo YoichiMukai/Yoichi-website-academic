@@ -18,6 +18,22 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Chair"
+  company = "Modern Languages Studies Department at Vancouver Island University"
+  company_url = "https://ah.viu.ca/modern-languages-studies"
+  location = "Nanaimo, BC, Canada"
+  date_start = "2019-08-01"
+  date_end = ""
+  description = """
+  Japanese & Linguistics:
+  * Basic Japanese I & II
+  * Intermediate Japanese I & II
+  * Introduction to Language and Linguistics
+  * Language and Linguistics in Use
+  * Introduction to Second Language Acquisition
+  """
+
+[[experience]]
   title = "Faculty - Japanese & Linguistics"
   company = "Modern Languages Studies Department at Vancouver Island University"
   company_url = "https://ah.viu.ca/modern-languages-studies"
