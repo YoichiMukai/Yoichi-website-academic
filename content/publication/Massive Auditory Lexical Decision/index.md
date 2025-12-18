@@ -4,7 +4,7 @@ date = 2024-01-05T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [ "Yoichi Mukai", "Daniel Brenner", "Benjamin V. Tucker (2025) Proceedings of Meetings on Acoustics"]
+authors = [ "Benjamin V. Tucker","Matthew C. Kelley","Yoichi Mukai","Filip Nenadić","Scott James Perry (2024) In Nesi, H., & Milin, P. (Eds.), International Encyclopedia of Language and Linguistics, 3rd Edition"]
 
 # Publication type.
 # Legend:
