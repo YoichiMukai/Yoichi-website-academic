@@ -1,6 +1,6 @@
 +++
 title = "Durational variability of spontaneous and read speech: Comparison between English and Japanese"
-date = 2023-01-05T00:00:00
+date = 2025-01-05T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
