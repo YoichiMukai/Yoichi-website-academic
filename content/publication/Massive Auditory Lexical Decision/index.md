@@ -22,7 +22,7 @@ publication_types = ["6"]
 #publication_short = "In *CLA*"
 
 # Abstract and optional shortened version.
-abstract = "The present work examines the cross-linguistic effects of speech style and phonetic reduction. Specifically, we focus on the durational variability of vowels and consonants in spontaneous and read speech in English and Japanese. Data were extracted from spoken corpora of English and Japanese and other read speech data for the two languages. The duration of the segments was extracted then for each segment in the dataset to explore differences in durational variability between the two languages and the two speech styles. Differences were found between spontaneous and read speech in English in both vocalic and consonantal measures. In contrast, the Japanese showed less variability, particularly in vocalic elements, with only the consonantal measure showing a difference. The results are discussed in terms of the interplay between speech style and phonetic reduction, suggesting both language-specific and language-independent patterns of reduction."
+abstract = "This article briefly introduces the Massive Auditory Lexical Decision database. Examples of analyses and investigations are briefly described to provide examples of how the database can be used."
 #abstract_short = ""
 
 # Is this a selected publication? (true/false)
