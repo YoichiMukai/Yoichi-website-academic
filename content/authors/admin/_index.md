@@ -84,7 +84,3 @@ I am a linguist and the director of the[Linguistic Research Laboratory](https://
 
 #### "All Things Language: Linguistics of VIU", the VIU Arts and Humanities Colloquium Series 2024
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EzBX4n1Mdfg?si=1aCpicq004xyMVSp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-#### “Beyond Multilingualism: How Linguists Think and Talk about Language”, the VIU Arts and Humanities Colloquium Series 2021
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Izurn9z130U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
