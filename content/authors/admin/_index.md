@@ -78,7 +78,7 @@ user_groups:
 ---
 ### Welcome to my website
 
-I am a linguist and language teacher with a research focus on the phonetics and psycholinguistics of spoken language. My research focuses on four questions:
+I am a linguist and Japanese teacher with a research focus on the phonetics and psycholinguistics of spoken language. My research focuses on four questions:
 
 - How does spelling influence spoken language?
 - How does spontaneous speech differ from careful speech?
