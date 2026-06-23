@@ -78,14 +78,14 @@ user_groups:
 ---
 ### Welcome to my website
 
-I am a linguist and Japanese teacher with a research focus on the phonetics and psycholinguistics of spoken language. My research focuses on four questions:
+I am a linguist with a research focus on the phonetics and psycholinguistics of spoken language. My research focuses on four questions:
 
 - How does spelling influence spoken language?
 - How does spontaneous speech differ from careful speech?
-- How do a bilingual's two languages influence each other in the mind?
+- How do a bilingual's two languages influence each other?
 - What makes second-language speech sound fluent?
 
-To address these questions, I study both native and non-native speakers, using a range of experimental methods that capture speech as it is produced and comprehended. I combine acoustic analysis of speech with psycholinguistic methods such as pupillometry to quantify both the variability of the speech signal and the cognitive effort that underlies producing and understanding spoken langauge.
+To answer these questions, I employ acoustic analysis and eye-tracking techniques such as pupillometry to examine the variability of the speech signal and to quantify the cognitive effort that underlies the production and perception of speech.
 
 - My Lab: [Linguistic Research Laboratory](https://ah.viu.ca/lrl)
 - My Academic Tree: [LinguisTree](https://academictree.org/linguistics/tree.php?pid=817024)
