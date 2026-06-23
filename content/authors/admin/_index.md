@@ -22,7 +22,7 @@ bio:
 
 interests:
 - Pupillometry
-- Phonology-to-Orthography Consistency
+- Orthographic Consistency
 - Spontaneous Speech
 - L2 Fluency
 - Japanese Linguistics
