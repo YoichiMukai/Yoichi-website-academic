@@ -80,7 +80,14 @@ user_groups:
 ---
 ### Welcome to my website
 
-I am a linguist and the director of the[Linguistic Research Laboratory](https://ah.viu.ca/lrl) who are interested in a range of data-driven research, with a focus on the empirical study of language through experimentation. My primary research interest lies in the underlying mechanisms of speech communication. Although speech is highly variable, speakers and listeners seem to communicate with ease. It is intriguing to study how the production of speech varies and how listeners cope with such variability. My LinguisTree is [here](https://academictree.org/linguistics/tree.php?pid=817024).
+I am a linguist with a research focus on the phonetics and psycholinguistics of spoken language. My research is focused on four related questions:
+- How does spelling influence spoken language?
+- How does spontaneous speech differ from careful speech?
+- How do a bilingual's two languages influence each other in the mind?
+- What makes second-language speech sound fluent?
+
+To address these questions, I study both native and non-native speakers, using a range of experimental methods that capture speech as it is produced and comprehended. I combine acoustic-phonetic analysis of speech with psycholinguistic methods such as pupillometry to quantify both the variability of the speech signal and the cognitive effort that underlies producing and understanding spoken words.
+
 
 #### "All Things Language: Linguistics of VIU", the VIU Arts and Humanities Colloquium Series 2024
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EzBX4n1Mdfg?si=1aCpicq004xyMVSp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
