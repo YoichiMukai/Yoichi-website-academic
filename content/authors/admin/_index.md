@@ -87,7 +87,7 @@ I am a linguist with a research focus on the phonetics and psycholinguistics of 
 
 To address these questions, I study both native and non-native speakers, using a range of experimental methods that capture speech as it is produced and comprehended. I combine acoustic analysis of speech with psycholinguistic methods such as pupillometry to quantify both the variability of the speech signal and the cognitive effort that underlies producing and understanding spoken words.
 
-My Lab [Linguistic Research Laboratory](https://ah.viu.ca/lrl) and LinguisTree is [here](https://academictree.org/linguistics/tree.php?pid=817024).
+My Lab: [Linguistic Research Laboratory](https://ah.viu.ca/lrl) and my LinguisTree are [here](https://academictree.org/linguistics/tree.php?pid=817024).
 
 #### "All Things Language: Linguistics of VIU", the VIU Arts and Humanities Colloquium Series 2024
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EzBX4n1Mdfg?si=1aCpicq004xyMVSp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
