@@ -24,7 +24,7 @@ interests:
 - Pupillometry
 - Phonology-to-Orthography Consistency
 - Spontaneous Speech
-- L2 Pronunciation and Fluency
+- L2 Fluency
 - Japanese Linguistics
 
 
