@@ -80,14 +80,14 @@ user_groups:
 ---
 ### Welcome to my website
 
-I am a linguist with a research focus on the phonetics and psycholinguistics of spoken language. My research is focused on four related questions:
+I am a linguist with a research focus on the phonetics and psycholinguistics of spoken language. My research focuses on four questions:
 
 - How does spelling influence spoken language?
 - How does spontaneous speech differ from careful speech?
 - How do a bilingual's two languages influence each other in the mind?
 - What makes second-language speech sound fluent?
 
-To address these questions, I study both native and non-native speakers, using a range of experimental methods that capture speech as it is produced and comprehended. I combine acoustic-phonetic analysis of speech with psycholinguistic methods such as pupillometry to quantify both the variability of the speech signal and the cognitive effort that underlies producing and understanding spoken words.
+To address these questions, I study both native and non-native speakers, using a range of experimental methods that capture speech as it is produced and comprehended. I combine acoustic analysis of speech with psycholinguistic methods such as pupillometry to quantify both the variability of the speech signal and the cognitive effort that underlies producing and understanding spoken words.
 
 
 #### "All Things Language: Linguistics of VIU", the VIU Arts and Humanities Colloquium Series 2024
