@@ -78,14 +78,14 @@ user_groups:
 ---
 ### Welcome to my website
 
-I am a linguist with a research focus on the phonetics and psycholinguistics of spoken language. My work centers on four questions:
+I am a linguist whose research focuses on the phonetics and psycholinguistics of spoken language. My work centres on four questions:
 
 - How does spelling influence speech?
 - How does spontaneous speech differ from careful speech?
 - How do a bilingual's languages influence each other?
 - What makes second-language speech sound fluent?
 
-To answer these questions, I employ acoustic analysis and eye-tracking techniques such as pupillometry to examine the variability of the speech signal and to quantify the cognitive effort that underlies the production and perception of speech.
+To answer these questions, I study both native and non-native speakers using a range of experimental methods. I analyze the acoustic details of their speech and track changes in their pupil size to measure the cognitive effort behind producing and understanding spoken language.
 
 - My Lab: [Linguistic Research Laboratory](https://ah.viu.ca/lrl)
 - My Academic Tree: [LinguisTree](https://academictree.org/linguistics/tree.php?pid=817024)
