@@ -85,7 +85,7 @@ I am a linguist and language teacher with a research focus on the phonetics and 
 - How do a bilingual's two languages influence each other in the mind?
 - What makes second-language speech sound fluent?
 
-To address these questions, I study both native and non-native speakers, using a range of experimental methods that capture speech as it is produced and comprehended. I combine acoustic analysis of speech with psycholinguistic methods such as pupillometry to quantify both the variability of the speech signal and the cognitive effort that underlies producing and understanding spoken words.
+To address these questions, I study both native and non-native speakers, using a range of experimental methods that capture speech as it is produced and comprehended. I combine acoustic analysis of speech with psycholinguistic methods such as pupillometry to quantify both the variability of the speech signal and the cognitive effort that underlies producing and understanding spoken langauge.
 
 - My Lab: [Linguistic Research Laboratory](https://ah.viu.ca/lrl)
 - My Academic Tree: [LinguisTree](https://academictree.org/linguistics/tree.php?pid=817024)
