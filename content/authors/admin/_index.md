@@ -21,12 +21,10 @@ organizations:
 bio:
 
 interests:
-- Phonetics
-- Psycholinguistics
 - Pupillometry
 - Phonology-to-Orthography Consistency
 - Spontaneous Speech
-- L2 Pronunciation and Comprehension
+- L2 Pronunciation and Fluency
 - Japanese Linguistics
 
 
