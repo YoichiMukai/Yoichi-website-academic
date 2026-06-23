@@ -81,6 +81,7 @@ user_groups:
 ### Welcome to my website
 
 I am a linguist with a research focus on the phonetics and psycholinguistics of spoken language. My research is focused on four related questions:
+
 - How does spelling influence spoken language?
 - How does spontaneous speech differ from careful speech?
 - How do a bilingual's two languages influence each other in the mind?
