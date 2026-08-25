@@ -1,6 +1,6 @@
 +++
 title = "Investigation of the acoustic effects of orthographic consistency on Japanese homophones"
-date = 2025-01-05T00:00:00
+date = 2025-01-06T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -49,7 +49,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "papers/40thPSJmeeting"
+url_pdf = "papers/40thPSJmeeting.pdf"
 #url_preprint = "https://psyarxiv.com/zv8y3/"
 #url_code = ""
 #url_dataset = ""
