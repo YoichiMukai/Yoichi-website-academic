@@ -1,6 +1,6 @@
 +++
 title = "Investigation of the acoustic effects of orthographic consistency on Japanese homophones"
-date = 2026-09-10T00:00:00
+date = 2026-09-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
