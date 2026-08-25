@@ -1,10 +1,10 @@
 +++
-title = "Investigation of the acoustic effects of orthographic consistency on Japanese homophones"
-date = 2026-09-10T00:00:00
+title = "Durational variability of spontaneous and read speech: Comparison between English and Japanese"
+date = 2025-01-05T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [ "Yoichi Mukai", "Benjamin V. Tucker (2026) Proceedings of the 40th General Meeting of the Phonetic Society of Japan"]
+authors = [ "Yoichi Mukai", "Daniel Brenner", "Benjamin V. Tucker (2025) Proceedings of Meetings on Acoustics"]
 
 # Publication type.
 # Legend:
@@ -22,7 +22,7 @@ publication_types = ["1"]
 #publication_short = "In *CLA*"
 
 # Abstract and optional shortened version.
-abstract = "Research has claimed that the phonetic realization of word duration in homophone pairs, such as time and thyme, systematically differs based on their lexical characteristics, including part of speech, frequency, and orthographic consistency. This research has shown that higher orthographic consistency is associated with shorter homophone duration in English (Gahl, 2008). The present study builds on this line of research in two ways. First, we extend it to Japanese, examining whether orthographic consistency effects on homophone duration generalize beyond alphabetic languages (e.g., English). Unlike alphabetic languages, Japanese employs logographic (or morphographic) orthography, in which logographic characters do not reliably correspond to any sub-lexical phonological unit (Wydell, 1998). Second, we investigate two directions of orthographic consistency: spelling-to-sound (feedforward) and sound-to-spelling (feedback) (Ziegler et al., 1997). While previous research has demonstrated effects of sound-to-spelling consistency on word production (e.g., Ziegler et al., 2003), studies on acoustic duration have focused exclusively on spelling-to-sound consistency (Brewer, 2008; Muschalik and Kunter, 2024), overlooking possible effects of sound-to-spelling consistency on word duration."
+abstract = "The present work examines the cross-linguistic effects of speech style and phonetic reduction. Specifically, we focus on the durational variability of vowels and consonants in spontaneous and read speech in English and Japanese. Data were extracted from spoken corpora of English and Japanese and other read speech data for the two languages. The duration of the segments was extracted then for each segment in the dataset to explore differences in durational variability between the two languages and the two speech styles. Differences were found between spontaneous and read speech in English in both vocalic and consonantal measures. In contrast, the Japanese showed less variability, particularly in vocalic elements, with only the consonantal measure showing a difference. The results are discussed in terms of the interplay between speech style and phonetic reduction, suggesting both language-specific and language-independent patterns of reduction."
 #abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -64,7 +64,7 @@ tags = []
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "https://doi.org/10.1121/2.0002121"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
