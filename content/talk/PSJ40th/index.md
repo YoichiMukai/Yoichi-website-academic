@@ -1,6 +1,6 @@
 +++
 title = "Investigation of the acoustic effects of orthographic consistency on Japanese homophones"
-date = 2025-01-06T00:00:00
+date = 2026-01-06T00:00:00
 draft = false
 
 # Talk start and end times.
@@ -9,7 +9,7 @@ draft = false
 #time_end = 2030-06-01T15:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [ "Yoichi Mukai", "Benjamin V. Tucker (2026) Proceedings of the 40th General Meeting of the Phonetic Society of Japan"]
+authors = [ "Yoichi Mukai", "Benjamin V. Tucker"]
 
 # Abstract and optional shortened version.
 #abstract = ""
