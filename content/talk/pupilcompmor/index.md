@@ -1,6 +1,6 @@
 +++
 title = "Pupil response as a processing measure of morphologically (pseudo) complex words"
-date = 2026-01-19T00:00:00  # Schedule page publish date.
+date = 2016-10-19T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
