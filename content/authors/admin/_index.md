@@ -83,7 +83,7 @@ I am a linguist whose research focuses on the phonetics and psycholinguistics of
 - How does spelling influence speech?
 - How does spontaneous speech differ from careful speech?
 - How do a bilingual's languages influence each other?
-- What makes second-language speech sound fluent?
+- What makes second language speech sound fluent?
 
 To answer these questions, I study both native and non-native speakers using a range of experimental methods. I analyze the acoustic details of their speech and track changes in their pupil size to measure the cognitive effort behind producing and understanding spoken language.
 
