@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Graduate School of Humanities, Nagoya University"
   organization_url = ""
-  title = "Visiting PhD student"
+  title = "Visiting Scholar"
   url = ""
   certificate_url = ""
   date_start = "2026-01-01"
