@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Tohoku University"
+  organization_url = ""
+  title = "Visiting Scholar"
+  url = ""
+  certificate_url = ""
+  date_start = "2026-09-01"
+  date_end = "2026-12-31"
+  description = ""
+
+[[item]]
   organization = "University of Chicago"
   organization_url = ""
   title = "Linguistic Society of America Summer Institute"
