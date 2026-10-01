@@ -17,6 +17,15 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[item]]
+  organization = "Nagoya University"
+  organization_url = ""
+  title = "Visiting Scholar"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-01-01"
+  date_end = "2026-4-30"
+  description = ""
 
 [[item]]
   organization = "Tohoku University"
