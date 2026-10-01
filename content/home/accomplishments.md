@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[item]]
-  organization = "Nagoya University"
+  organization = "Graduate School of Humanities, Nagoya University"
   organization_url = ""
   title = "Visiting Scholar"
   url = ""
@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Tohoku University"
+  organization = "Graduate School of International Cultural Studies, Tohoku University"
   organization_url = ""
   title = "Visiting Scholar"
   url = ""
@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Nagoya University"
+  organization = "Graduate School of Humanities, Nagoya University"
   organization_url = ""
   title = "Visiting PhD student"
   url = ""
