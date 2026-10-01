@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   title = "Visiting Scholar"
   url = ""
   certificate_url = ""
-  date_start = "2021-01-01"
+  date_start = "2026-01-01"
   date_end = "2026-4-30"
   description = ""
 
